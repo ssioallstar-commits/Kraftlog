@@ -12,6 +12,10 @@ Installierbare, statische HTTPS-Web-App für Krafttraining. Öffne die Site auf 
 
 Trainingseinträge werden in `localStorage` des jeweiligen Browsers gespeichert. Sie werden nicht an GitHub Pages gesendet und nicht automatisch zwischen Geräten synchronisiert. Nutze in der App **Daten → Daten exportieren/importieren**, um eine Sicherung manuell zu übertragen. Lösche die Browserdaten für die Website nicht ohne vorherigen Export.
 
+Unter **Daten** kannst du außerdem eine grobe 1RM-Schätzung mit RPE/RIR, freiwillige Körpermaße und ein tägliches Erholungs-, Arbeits- und Ernährungsprotokoll speichern. Tagesdaten, Körperprofil und Trainingsverlauf sind in der Exportdatei enthalten.
+
+Die App zeigt vom Nutzer gewählte Makro-Richtwerte an. Sie sind keine medizinische Empfehlung und keine für alle geltenden Mindestmengen. Als Orientierung nennt die ISSN für viele Trainierende etwa 1,4–2,0 g Protein pro kg Körpergewicht am Tag: https://pubmed.ncbi.nlm.nih.gov/28698222/ . Bei Erkrankungen oder besonderen Ernährungsbedürfnissen bitte fachlichen Rat einholen.
+
 ## Spracheingabe
 
 Die Spracherkennung benötigt einen unterstützenden Browser, Mikrofonzugriff und Internet. Der Browser kann die Spracherkennung über einen Online-Dienst verarbeiten. Die Spracheingabe zeigt vor dem Speichern den erkannten Satz und die Zuordnung zu Übung, Gewicht, Wiederholungen je Satz und Satzanzahl. Unterschiedliche Wiederholungen lassen sich als Liste sprechen oder eintragen, zum Beispiel „vier Sätze: zehn, acht, acht und sechs Wiederholungen“.
